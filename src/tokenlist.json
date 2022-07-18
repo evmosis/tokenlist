@@ -261,7 +261,7 @@
       "symbol": "LHS2",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0x7c21d6A51d6f591A95470f1F262C9c804c4CEAc3",
+      "address": "0x6fD061e2AF8DBF250023664d9A77c593fd143Bb4",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/LHS.png"
     },
     {
@@ -269,7 +269,7 @@
       "symbol": "RHS2",
       "chainId": 9000,
       "decimals": 18,
-      "address": "0xD3607915d934576EcdC389E7DBc641097fd5A0dE",
+      "address": "0xfdb1c29A87393B52534155585380a5a587C39caD",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/RHS.png"
     }
   ]
